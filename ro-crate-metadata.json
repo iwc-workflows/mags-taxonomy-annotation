@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-05-28T15:13:08.413272",
+            "datePublished": "2026-07-04T14:43:43.901295",
             "hasPart": [
                 {
                     "@id": "MAGs-taxonomy-annotation.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mags-taxonomy-annotation",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
