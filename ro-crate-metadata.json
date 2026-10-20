@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-19T12:46:19.808354",
+            "datePublished": "2026-10-20T23:52:49.474451",
             "hasPart": [
                 {
                     "@id": "MAGs-taxonomy-annotation.ga"
@@ -64,10 +64,19 @@
             ],
             "creator": [
                 {
+                    "@id": "https://orcid.org/0000-0002-9356-5224"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-2982-388X"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-9852-1987"
+                },
+                {
                     "@id": "https://orcid.org/0009-0004-0382-2023"
                 },
                 {
-                    "@id": "https://orcid.org/0000-0002-9356-5224"
+                    "@id": "https://github.com/usegalaxy-eu/FAIRyMAGs"
                 }
             ],
             "name": "mags-taxonomy-annotation/main",
@@ -75,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mags-taxonomy-annotation",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#galaxy",
@@ -90,14 +99,29 @@
             "version": "v19_09"
         },
         {
+            "@id": "https://orcid.org/0000-0002-9356-5224",
+            "@type": "Person",
+            "name": "Giuseppe Defazio"
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-2982-388X",
+            "@type": "Person",
+            "name": "Paul Zierep"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-9852-1987",
+            "@type": "Person",
+            "name": "B\u00e9r\u00e9nice Batut"
+        },
+        {
             "@id": "https://orcid.org/0009-0004-0382-2023",
             "@type": "Person",
             "name": "Santino Faack"
         },
         {
-            "@id": "https://orcid.org/0000-0002-9356-5224",
-            "@type": "Person",
-            "name": "Giuseppe Defazio"
+            "@id": "https://github.com/usegalaxy-eu/FAIRyMAGs",
+            "@type": "Organization",
+            "name": "FAIRyMAGs consortium"
         },
         {
             "@id": "README.md",
